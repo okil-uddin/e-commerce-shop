@@ -230,22 +230,14 @@ footer{
     }
 
     .contant-items {
+        padding: 15px;
         width: 100%;
         height: auto;
     }
 
     .header-title {
         font-size: 2rem;
-        text-align: center;
         margin: 40px 0px 0px 0px;
-    }
-
-    .header-des {
-        text-align: center;
-    }
-
-    .contant-items button {
-        margin-left: 40px;
     }
 
     .brands {
