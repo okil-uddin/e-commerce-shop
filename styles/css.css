@@ -281,8 +281,12 @@ footer{
         gap: 5px;
     }
 
+    .join-prt-contant{
+        padding: 10px;
+    }
+
     .join-img img {
-        width: 95%;
+        width: 100%;
     }
 }
 
